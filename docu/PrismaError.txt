@@ -1,0 +1,13 @@
+🛠️ Datenbank komplett neu aufsetzen:
+👉 bunx prisma migrate reset
+migrations/
+  └─ 20260519121554_init/
+    └─ migration.sql
+
+✔ Generated Prisma Client (v5.22.0) to ./../node_modules/@prisma/client in 159ms
+
+Running seed command `tsx prisma/seed.ts` ...
+✅ Seed done!
+
+🌱  The seed command has been executed.
+
